@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kien Pham</title>
     <link>https://kienpham.com/posts/</link>
     <description>Recent content in Posts on Kien Pham</description>
-    <image>
-      <title>Kien Pham</title>
-      <url>https://kienpham.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kienpham.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Mar 2023 10:28:09 -0800</lastBuildDate><atom:link href="https://kienpham.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2023 10:28:09 -0800</lastBuildDate>
+    
+	<atom:link href="https://kienpham.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>The Wheel Strategy</title>
       <link>https://kienpham.com/posts/the-wheel-strategy/</link>
       <pubDate>Sat, 18 Mar 2023 10:28:09 -0800</pubDate>
       
       <guid>https://kienpham.com/posts/the-wheel-strategy/</guid>
-      <description>TLDR: Theta gang favorite strategy. Pick a stock you like to own long term (ex: TSLA). Sell Covered Call to collect premium. If got assigned, Sell Covered Put and repeat the cycle.</description>
+      <description>Options Basic Let&amp;rsquo;s say you own 100 shares of TSLA and you don&amp;rsquo;t really care if it goes up or down, you like to hold it long term, basically you are bullish in the long run (few years+). One approach you can do to hedge against risk being bearish in the short run (weeks / month).
+You can sell 1 Covered Call since 1 option is worth 100 shares.</description>
     </item>
     
   </channel>
